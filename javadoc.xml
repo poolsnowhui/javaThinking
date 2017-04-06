@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="protected" additionalparam="-encoding UTF-8 " author="true" classpath="." destdir="doc" doctitle="javaThinking" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="exceptions,wangyin2,net.mindview.util,object,reflect,wangyin3,ioput,strings,wangyintest,xunhuantianjiangailv,wangyin1" source="1.8" sourcefiles="src/Test.java" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
